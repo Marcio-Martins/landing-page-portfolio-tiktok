@@ -1,84 +1,59 @@
-
 # Template de Landing Page para Portfólio
 
-Bem-vindo ao **Template de Landing Page para Portfólio**, um projeto gratuito que desenvolvi para ajudar freelancers, desenvolvedores e designers a criarem portfólios profissionais e impactantes. Este template é uma solução fácil de implementar e pode ser utilizada tanto para seu próprio portfólio quanto para vender como um serviço para seus clientes.
+Repositório com um template de landing page estática para portfólios. O projeto pode servir como ponto de partida para personalizar apresentação, projetos e informações de contato.
 
-## 🖥️ Demonstração
+> **Créditos:** o README original identifica Ricardo Moura (RM Dev) como criador do template. Este repositório preserva essa atribuição; personalize o conteúdo e respeite a licença e os créditos aplicáveis antes de redistribuir.
 
-Você pode visualizar o site de exemplo no seguinte link:
+## Demonstração
 
-👉 [Visualizar Site Exemplo](https://silly-pastelito-c73724.netlify.app)
+[Visualizar demonstração publicada](https://silly-pastelito-c73724.netlify.app)
 
-## 🚀 Funcionalidades
+## Recursos
 
-- Design moderno e responsivo, adaptado para dispositivos móveis.
-- Seções para "Sobre", "Serviços", "Portfólio", "Contato", entre outras.
-- Animações suaves ao rolar a página, utilizando a biblioteca AOS.
-- Código otimizado para SEO e desempenho.
-- Fácil personalização para incluir suas informações e branding.
+- Layout responsivo para dispositivos móveis e desktops.
+- Seções para apresentação, serviços, portfólio e contato.
+- Animações de rolagem com AOS.
+- Ícones e recursos visuais para uma página de apresentação.
 
-## 📋 Como Utilizar
+## Tecnologias
 
-1. **Clone o Repositório**
-   ```bash
-   git clone https://github.com/SEU_USUARIO/landing-page-portfolio-tiktok.git
-   ```
+- HTML5 e CSS3
+- JavaScript
+- AOS (Animate on Scroll)
+- Bootstrap Icons
 
-2. **Abra no seu editor de código favorito (VS Code, Sublime, etc.).**
+## Executar localmente
 
-3. **Edite o conteúdo**
-   - Substitua as imagens, textos e informações pessoais nas respectivas seções do código.
+1. Clone este repositório:
 
-4. **Hospede seu portfólio**
-   - O site é estático, então pode ser hospedado facilmente em plataformas como Netlify, Vercel ou GitHub Pages.
+   ~~~bash
+   git clone https://github.com/Marcio-Martins/landing-page-portfolio-tiktok.git
+   cd landing-page-portfolio-tiktok
+   ~~~
 
-## 🎨 Personalização
+2. Abra index.html no navegador ou use a extensão Live Server do Visual Studio Code.
+3. Edite o HTML e os estilos para adaptar textos, imagens, links e cores.
+4. Antes de publicar, verifique todos os links, o comportamento em telas pequenas e a acessibilidade das imagens.
 
-Você pode personalizar todas as seções do template:
-- **Início:** Adicione seu nome, título e uma chamada para ação.
-- **Sobre:** Adicione uma descrição sobre você, suas habilidades e seus perfis de redes sociais.
-- **Serviços:** Inclua os serviços que você oferece.
-- **Portfólio:** Adicione seus trabalhos, clientes anteriores ou cases de sucesso.
-- **Contato:** Ofereça opções para clientes entrarem em contato.
+Não é necessário um servidor backend para visualizar a versão estática atual.
 
-## 🔧 Tecnologias Utilizadas
+## Checklist de personalização
 
-- **HTML5 & CSS3:** Para estrutura e estilo.
-- **JavaScript:** Para animações e interações dinâmicas.
-- **AOS (Animate on Scroll):** Para as animações ao rolar a página.
-- **Bootstrap Icons:** Ícones prontos para uso, para uma interface mais rica.
+- [ ] Substituir textos e imagens de exemplo.
+- [ ] Atualizar links sociais e informações de contato.
+- [ ] Confirmar que as imagens possuem texto alternativo adequado.
+- [ ] Testar navegação por teclado e responsividade.
+- [ ] Revisar título, descrição e metadados para SEO.
+- [ ] Conferir a licença e preservar a atribuição original.
 
-## 📦 Instalação
+## Sobre o criador original
 
-Não é necessário instalar nada além de um editor de texto e um navegador para testar. Você pode modificar o conteúdo diretamente nos arquivos HTML e CSS.
+O README original atribui o template a **Ricardo Moura / RM Dev**. Consulte os canais indicados pelo autor original:
 
-## 🛠 Melhorias Futuras
+- [Instagram](https://www.instagram.com/riicardomoura/)
+- [LinkedIn](https://www.linkedin.com/in/ricardomouradev/)
+- [RM Dev — links](https://rmdeveloper.com.br/meus-links)
 
-Planejo melhorar e atualizar o template com novos recursos e seções. Algumas das ideias para futuras versões incluem:
-- Adição de mais layouts e estilos.
-- Integração com formulários dinâmicos (com EmailJS ou Formspree).
-- Suporte a múltiplos temas (dark mode).
+## Autor deste repositório
 
-## 👨‍🏫 Sobre Mim
-
-Eu sou **Ricardo Moura**, desenvolvedor web freelancer e criador de conteúdo focado em programação e tecnologia. Meu objetivo é ajudar outros desenvolvedores a terem sucesso no mercado de trabalho freelancer, oferecendo dicas, estratégias e templates como este.
-
-Se você gostou deste projeto ou deseja aprender mais sobre como melhorar seus projetos, siga-me nas minhas redes sociais para mais conteúdos:
-
-- **Instagram:** [@riicardomoura](https://www.instagram.com/riicardomoura/)
-- **LinkedIn:** [Ricardo Moura](https://www.linkedin.com/in/ricardomouradev/)
-- **Meus Links:** [RM│Dev.](https://rmdeveloper.com.br/meus-links)
-
-## 🎁 Como Contribuir
-
-Se você tem sugestões de melhorias ou encontrou algum bug, fique à vontade para contribuir com o projeto. Basta abrir uma issue ou fazer um pull request.
-
----
-
-Espero que este template ajude você a criar um portfólio incrível e a se destacar no mercado. Se precisar de ajuda, estarei por aqui!
-
-Se você utilizar o template e postar no Instagram ou outra rede social, me marque! Ficarei feliz em reagir à sua postagem.
-
-### Licença
-
-Este projeto está sob a licença MIT. Você é livre para usá-lo como quiser, tanto para uso pessoal quanto comercial.
+Márcio Martins · [Perfil GitHub](https://github.com/Marcio-Martins)
